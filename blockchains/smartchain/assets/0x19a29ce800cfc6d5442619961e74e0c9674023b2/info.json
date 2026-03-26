@@ -1,0 +1,11 @@
+{
+  "name": "Tether USD Bridged ZED 2.00",
+  "symbol": "USDT.z",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x19a29ce800cfc6d5442619961e74e0c9674023b2",
+  "description": "USDT.z token",
+  "website": "https://thebitcointech.com",
+  "explorer": "https://bscscan.com/token/0x19a29ce800cfc6d5442619961e74e0c9674023b2"
+}
